@@ -1,2 +1,2 @@
 # array
-Exercícios de array propostos em aula de javascript.
+Exercícios de Array propostos em aula de JavaScript.
